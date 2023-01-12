@@ -79,7 +79,7 @@
 
       - Exit Application
       <img width="698" alt="Screen Shot 2023-01-11 at 11 29 30 PM" src="https://user-images.githubusercontent.com/114618684/211987116-1140aadf-c92a-4e5f-bf44-321348309a9a.png">
-  
+
 
 ## Technologies
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
