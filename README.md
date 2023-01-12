@@ -68,16 +68,16 @@
 
   Application Preview:
 
-      - Welcome
+    Welcome
       <img width="871" alt="Screen Shot 2023-01-11 at 11 28 37 PM" src="https://user-images.githubusercontent.com/114618684/211987172-11134fe5-a368-4c3b-8667-26d5b6a92b97.png">
 
-      - Prompt User
+    Prompt User
       <img width="820" alt="Screen Shot 2023-01-11 at 11 28 46 PM" src="https://user-images.githubusercontent.com/114618684/211987313-3c0613c8-da09-43f6-93b1-8e432bf0d671.png">
 
-      - View Table
+    View Table
       <img width="879" alt="Screen Shot 2023-01-11 at 11 28 57 PM" src="https://user-images.githubusercontent.com/114618684/211987483-4a06b591-2d4e-48d1-b740-9ae82efe96c7.png">
 
-      - Exit Application
+    Exit Application
       <img width="698" alt="Screen Shot 2023-01-11 at 11 29 30 PM" src="https://user-images.githubusercontent.com/114618684/211987116-1140aadf-c92a-4e5f-bf44-321348309a9a.png">
   
 
