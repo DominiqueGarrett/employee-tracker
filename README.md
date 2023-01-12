@@ -66,15 +66,7 @@
 
   - Need to be in the main folder in terminal when running the command.
 
-  Application Preview:
 
-    Welcome
-      
-    Prompt User
-     
-    View Table
-      
-    Exit Application
 
 
 ## Technologies
