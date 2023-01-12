@@ -1,7 +1,6 @@
 # employee-tracker
   Module 12 Challenge Assignment: SQL Challenge - Employee Tracker
 
-## Deployed Application
 
 
 ## Badges
