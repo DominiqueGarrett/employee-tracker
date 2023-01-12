@@ -67,7 +67,7 @@
   - Need to be in the main folder in terminal when running the command.
 
 
-     
+
 
 ## Technologies
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
