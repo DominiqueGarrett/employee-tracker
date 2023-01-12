@@ -68,7 +68,15 @@
 
 ## Screenshots of Application in Use
 
+Welcome:
 <img width="837" alt="Screen Shot 2023-01-12 at 2 23 01 AM" src="https://user-images.githubusercontent.com/114618684/212015337-bd098ec8-6e35-4bf5-989e-8f8b5c105580.png">
+
+Prompts:
+<img width="829" alt="Screen Shot 2023-01-12 at 2 23 21 AM" src="https://user-images.githubusercontent.com/114618684/212016263-855e979c-c8ce-4555-b97b-70beef7cea89.png">
+
+
+Exit App:
+<img width="681" alt="Screen Shot 2023-01-12 at 2 23 47 AM" src="https://user-images.githubusercontent.com/114618684/212016042-1e20a506-9335-4ba1-a2b6-2a7f4a62c7a3.png">
 
 
 
