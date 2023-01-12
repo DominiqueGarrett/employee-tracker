@@ -69,21 +69,17 @@
   Application Preview:
 
       - Welcome
-
-      ![welcome](https://user-images.githubusercontent.com/114618684/211982645-9d28ab1e-08f8-4059-a79f-f604d6f4f94e.png)
+      <img width="871" alt="Screen Shot 2023-01-11 at 11 28 37 PM" src="https://user-images.githubusercontent.com/114618684/211987172-11134fe5-a368-4c3b-8667-26d5b6a92b97.png">
 
       - Prompt User
-
-      ![prompt](https://user-images.githubusercontent.com/114618684/211982732-f8f7ae89-1fc0-47d9-b1a7-98ec492d1337.png)
+      <img width="820" alt="Screen Shot 2023-01-11 at 11 28 46 PM" src="https://user-images.githubusercontent.com/114618684/211987313-3c0613c8-da09-43f6-93b1-8e432bf0d671.png">
 
       - View Table
-
-      ![table](https://user-images.githubusercontent.com/114618684/211982658-2da23412-897b-414a-ad76-ef9cd9adf907.png)
+      <img width="879" alt="Screen Shot 2023-01-11 at 11 28 57 PM" src="https://user-images.githubusercontent.com/114618684/211987483-4a06b591-2d4e-48d1-b740-9ae82efe96c7.png">
 
       - Exit Application
-      
-      ![bye](https://user-images.githubusercontent.com/114618684/211982637-e03025d1-6344-45b6-ba1d-9a7ae57983f6.png)
-
+      <img width="698" alt="Screen Shot 2023-01-11 at 11 29 30 PM" src="https://user-images.githubusercontent.com/114618684/211987116-1140aadf-c92a-4e5f-bf44-321348309a9a.png">
+  
 
 ## Technologies
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
