@@ -66,9 +66,21 @@
 
   - Need to be in the main folder in terminal when running the command.
 
+  Application Preview:
+      - Welcome
+      ![welcome](https://user-images.githubusercontent.com/114618684/211982645-9d28ab1e-08f8-4059-a79f-f604d6f4f94e.png)
+
+      - Prompt User
+      ![prompt](https://user-images.githubusercontent.com/114618684/211982732-f8f7ae89-1fc0-47d9-b1a7-98ec492d1337.png)
+
+      - View Table
+      ![table](https://user-images.githubusercontent.com/114618684/211982658-2da23412-897b-414a-ad76-ef9cd9adf907.png)
+
+      - Exit Application
+      ![bye](https://user-images.githubusercontent.com/114618684/211982637-e03025d1-6344-45b6-ba1d-9a7ae57983f6.png)
+
 
 ## Technologies
-
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -81,7 +93,6 @@
   ## How to Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/)  
 
- 
 
   ## Questions?
   ### Reach me here: 
