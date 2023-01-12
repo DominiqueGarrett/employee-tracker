@@ -21,7 +21,7 @@ Module 12 Challenge Assignment: SQL Challenge - Employee Tracker
 
 
   ## Description
-
+The Employee Management System is a Command-line interface based application written in Javascript utilizing node, inquirer and mySQL on the backend
 
 
 ## User Story
