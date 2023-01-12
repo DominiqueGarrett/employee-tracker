@@ -66,6 +66,9 @@
 
   - Need to be in the main folder in terminal when running the command.
 
+## Screenshots of Application in Use
+
+<img width="837" alt="Screen Shot 2023-01-12 at 2 23 01 AM" src="https://user-images.githubusercontent.com/114618684/212015337-bd098ec8-6e35-4bf5-989e-8f8b5c105580.png">
 
 
 
